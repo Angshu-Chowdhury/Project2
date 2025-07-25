@@ -1,5 +1,5 @@
 # New Project
-This project has created.
+This project has created
 
 # Name 
 AC
